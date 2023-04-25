@@ -9,3 +9,4 @@ The terraform script will create instances across the region  , roles to access 
 
 3. terraform apply # to provision
 4. terraform destroy # to destroy
+5
